@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomdestudio
-- 👀 I’m interested in learning how to be a better web designer and how to code
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on digital design projects and artwork
+- 👀 I'm a web designer, graphic designer, photographer, videographer, and editor.
+- 🌱 Using github to manage tasks bc it's what all the cool devs are doing.
+- 💞️ Looking to take on new work locally in NYC as well as from agencies and direct clients all over the world, as long as it makes sense.
 - 📫 How to reach me - my website www.tomdestudio.com
 
 <!---
